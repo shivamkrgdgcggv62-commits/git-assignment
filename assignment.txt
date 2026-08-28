@@ -2,3 +2,4 @@ This is Question_1 of my Git Assignment.
 I am practicing Git commands.
 
 This change was made on GitHub.
+Branching allows us to work on changes independently.
