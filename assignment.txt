@@ -1,4 +1,6 @@
+This is the updated assignment after resolving the master and feature branch changes.
 This is my MASTER branch change.
+This is my FEATURE branch change.
 I am practicing Git commands.
 
 This change was made on GitHub.
